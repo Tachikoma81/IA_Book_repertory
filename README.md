@@ -1,7 +1,7 @@
 ## How to Use This Project
 
 ### Prerequisites  
-- Ensure you use every file with `ipt`.  
+- Ensure you use every file with `ipt` and `predict.ipynb`.  
 - Maintain the same folder structure as follows:  
 ### Setup Instructions  
 1. Extract `sae_ipt.zip` into the `sae-folder`.  
