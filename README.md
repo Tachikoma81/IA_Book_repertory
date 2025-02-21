@@ -9,3 +9,5 @@
 3. Ensure your setup follows this structure before running the project.  
 4.
    -Scikit-learn version: 1.5.2 and     -Joblib version: 2.0.2 - transformers version: 4.48.3 - python version:3.9.7
+### Colaborator
+TRLois, Marwwannn,dreddee
